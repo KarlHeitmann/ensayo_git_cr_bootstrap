@@ -4,5 +4,11 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
+  padding-top: 30rem;
+  height: 50rem;
   padding-bottom: 10rem;
+}
+
+body {
+  background-color: #e1e1e1
 }
