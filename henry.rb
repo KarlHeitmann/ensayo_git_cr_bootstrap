@@ -1,35 +1,5 @@
 
-=begin
-lista = [
-  "Alonso Viales Arrieta",
-  "Cynthia Johanna Salazar Rodrguez",
-  "Elian Roberto Rojas Rojas",
-  "Erick Ramos Mora",
-  "Erick Rojas Arias",
-  "Fabián Conejo Segura",
-  "Flor de Azalea Marcia Acua",
-  "Gabriela Sols Chavarra",
-  "Henry Artavia Chavarria",
-  "Jacqueline de los Ángeles Picado Azofeifa",
-  "Jordan Sandoval Gonzalez",
-  "Joseph Murillo Rodrguez",
-  "Lidia Arce Picado",
-  "Mara Roxana Chinchilla Vsquez",
-  "Marcela de los Ángeles Brenes Daniels",
-  "Maria Alejandra Serrano Ramrez",
-  "Mauricio Badilla Blen",
-  "Oscar Vega Venegas",
-  "Pablo Mora Salazar",
-  "Randall Chaves Camacho",
-  "Rogelio Chanto segura",
-  "Shirley María Alvarado Soto",
-  "Steyler Ayala Palacios",
-  "Tatiana Mara Lara Martnez",
-  "Yirlania Torres Salas"
-]
-=end
-
-seleccion = ""
+seleccion = "Henry Artavia Chavarria"
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
@@ -44,7 +14,7 @@ discos = {
   "Jacqueline de los Ángeles Picado Azofeifa" => "Songs from the Wood (1977)",
   "Jordan Sandoval Gonzalez" => "Heavy Horses (1978)",
   "Joseph Murillo Rodrguez" => "Stormwatch (1979)",
-  "Lidia Arce Picado" => "A (1980)",
+  "Lidia Arce Picado" => "A (1980)"
   "Mara Roxana Chinchilla Vsquez" => "The Broadsword and the Beast (1982)",
   "Marcela de los Ángeles Brenes Daniels" => "Under Wraps (1984)",
   "Maria Alejandra Serrano Ramrez" => "Crest of a Knave (1987)",
