@@ -31,7 +31,7 @@ lista = [
 ]
 =end
 
-seleccion = "Karl Heitmann"
+seleccion = "karl"
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
