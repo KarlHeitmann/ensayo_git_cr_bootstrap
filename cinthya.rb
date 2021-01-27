@@ -1,5 +1,5 @@
 
-seleccion = "Cynthia Johanna Salazar Rodrguez"
+seleccion = ""Cynthia Johanna Salazar Rodrguez""
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
