@@ -29,7 +29,7 @@ lista = [
 ]
 =end
 
-seleccion = ""
+seleccion = "Jordan Sandoval Gonzalez"
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
