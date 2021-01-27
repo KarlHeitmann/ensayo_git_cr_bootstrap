@@ -63,4 +63,4 @@ discos = {
   "Sebastián Jiménez" => "Homo Erraticus"
 }
 
-puts discos[seleccion]
+puts discos[This Was (1968)]
