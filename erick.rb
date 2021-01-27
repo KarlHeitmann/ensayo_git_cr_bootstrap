@@ -31,7 +31,7 @@ lista = [
 ]
 =end
 
-seleccion = "Erick Rojas"
+seleccion = "Erick Rojas Arias"
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
