@@ -1,37 +1,5 @@
 
-=begin
-lista = [
-  "Alonso Viales Arrieta",
-  "Cynthia Johanna Salazar Rodrguez",
-  "Elian Roberto Rojas Rojas",
-  "Erick Ramos Mora",
-  "Erick Rojas Arias",
-  "Fabián Conejo Segura",
-  "Flor de Azalea Marcia Acua",
-  "Gabriela Sols Chavarra",
-  "Henry Artavia Chavarria",
-  "Jacqueline de los Ángeles Picado Azofeifa",
-  "Jordan Sandoval Gonzalez",
-  "Joseph Murillo Rodrguez",
-  "Lidia Arce Picado",
-  "Mara Roxana Chinchilla Vsquez",
-  "Marcela de los Ángeles Brenes Daniels",
-  "Maria Alejandra Serrano Ramrez",
-  "Mauricio Badilla Blen",
-  "Oscar Vega Venegas",
-  "Pablo Mora Salazar",
-  "Randall Chaves Camacho",
-  "Rogelio Chanto segura",
-  "Shirley María Alvarado Soto",
-  "Steyler Ayala Palacios",
-  "Tatiana Mara Lara Martnez",
-  "Yirlania Torres Salas",
-  "Karl Heitmann",
-  "Sebastián Jiménez"
-]
-=end
-
-seleccion = "karl"
+seleccion = "Rogelio Chanto segura"
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
@@ -63,4 +31,4 @@ discos = {
   "Sebastián Jiménez" => "Homo Erraticus"
 }
 
-puts discos[This Was (1968)]
+puts discos[seleccion]

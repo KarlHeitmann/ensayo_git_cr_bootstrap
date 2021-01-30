@@ -25,13 +25,11 @@ lista = [
   "Shirley María Alvarado Soto",
   "Steyler Ayala Palacios",
   "Tatiana Mara Lara Martnez",
-  "Yirlania Torres Salas",
-  "Karl Heitmann",
-  "Sebastián Jiménez"
+  "Yirlania Torres Salas"
 ]
 =end
 
-seleccion = "karl"
+seleccion = "Shirley María Alvarado Soto"
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
@@ -55,12 +53,12 @@ discos = {
   "Pablo Mora Salazar" => "Roots to Branches (1995)",
   "Randall Chaves Camacho" => "J-Tull Dot Com (1999)",
   "Rogelio Chanto segura" => "The Jethro Tull Christmas Album (2003)",
-  "Shirley María Alvarado Soto" => "Walk into Light   Chrysalis/EMI Records   202   78   ",
-  "Steyler Ayala Palacios" => "Divinities: Twelve Dances with God   Angel/EMI Records       ",
+  "Shirley María Alvarado Soto" => "Walk into Light   Chrysalis/EMI Records   202   78",
+  "Steyler Ayala Palacios" => "Divinities: Twelve Dances with God   Angel/EMI Records",
   "Tatiana Mara Lara Martnez" => "The Secret Language of Birds   Fuel 2000/Varèse Sarabande/Universal Records   26     ",
   "Yirlania Torres Salas" => "Rupi's Dance   RandM Records       40",
   "Karl Heitmann" => "Thick as a Brick 2",
   "Sebastián Jiménez" => "Homo Erraticus"
 }
 
-puts discos[This Was (1968)]
+puts discos[seleccion]
