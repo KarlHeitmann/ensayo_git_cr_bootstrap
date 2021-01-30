@@ -1,4 +1,3 @@
-
 =begin
 lista = [
   "Alonso Viales Arrieta",
@@ -25,13 +24,11 @@ lista = [
   "Shirley María Alvarado Soto",
   "Steyler Ayala Palacios",
   "Tatiana Mara Lara Martnez",
-  "Yirlania Torres Salas",
-  "Karl Heitmann",
-  "Sebastián Jiménez"
+  "Yirlania Torres Salas"
 ]
 =end
 
-seleccion = "karl"
+seleccion = "Yirlania Torres Salas"
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
@@ -63,4 +60,4 @@ discos = {
   "Sebastián Jiménez" => "Homo Erraticus"
 }
 
-puts discos[This Was (1968)]
+puts discos[seleccion]

@@ -25,11 +25,13 @@ lista = [
   "Shirley María Alvarado Soto",
   "Steyler Ayala Palacios",
   "Tatiana Mara Lara Martnez",
-  "Yirlania Torres Salas"
+  "Yirlania Torres Salas",
+  "Karl Heitmann",
+  "Sebastián Jiménez"
 ]
 =end
 
-seleccion = ""
+seleccion = "Erick Rojas Arias"
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
